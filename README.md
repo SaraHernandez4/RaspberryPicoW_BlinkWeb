@@ -136,3 +136,22 @@ while True:
         cl.close()
         print('connection closed')
 ```
+
+### Evidencia de la práctica realizada
+
+Circuito del blink
+
+![]()
+
+Prendido del LED de la PICO
+
+![](Prendido.jpg)
+
+![](Prendido1.jpg)
+
+
+APAGADO del LED de la PICO
+
+![](Apagado.jpg)
+
+![](Apagado1.jpg)
