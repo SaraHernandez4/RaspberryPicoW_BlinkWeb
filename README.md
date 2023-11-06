@@ -139,9 +139,9 @@ while True:
 
 ### Evidencia de la práctica realizada
 
-Circuito del blink
+Imagen de la Forma
 
-![]()
+![](Forma.jpg)
 
 Prendido del LED de la PICO
 
