@@ -56,8 +56,8 @@ text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}
         }
     </style>
 <body>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T4Tu_BaA19pINcwEhSR4SghbAD-MBfDmig&usqp=CAU" width="200" height="200">
-    <center><h1>Lumos & Nox</h1></center><br><br>
+    <img src="https://www.grupoeir.com.mx/tienda/9547-thickbox_default/foco-4w-led-vintage-amarillo.jpg" width="200" height="200">
+    <center><h1>ILUMINACION</h1></center><br><br>
     <form>
         <center>
         <center> <button class="buttonGreen" name="led" value="on" type="submit">LED ON</button>
@@ -67,7 +67,7 @@ text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}
     <br><br>
 <style>
     body {
-        background-image: url('https://img.freepik.com/foto-gratis/muro-hormigon-gris-claro_53876-89532.jpg');
+        background-image: url('https://media.npr.org/assets/img/2015/03/31/stars-d1900fc64ba48ac3633054f03a7864aa601973f3-s1100-c50.jpg');
         background-size: cover; /* Para que la imagen cubra toda la ventana del navegador */
     }
 </style>
